@@ -1,0 +1,87 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto:400,500,700&subset=cyrillic');
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+.space40 {
+    margin-bottom: 40px;
+}
+
+header {
+    padding: 100px 0 50px;
+    background: #2d3136;
+}
+
+.pic {
+    padding: 40px;
+}
+
+.form-control,
+label {
+    background: transparent;
+    font-size: 2em;
+    font-weight: 500;
+    color: #fff;
+}
+input.form-control {
+    height: 2em;
+}
+
+.btn {
+    border-radius: 0;
+}
+
+.comments {
+    padding: 100px 0;
+}
+
+.panel-custom {
+    font-size: 1.2em;
+}
+.panel-custom .panel-title {
+    font-size: 20px;
+    margin: 10px auto;
+}
+
+.items .item .panel-heading {
+    color: #fff;
+    background: #4b596c;
+}
+.items .item:nth-child(even) .panel-heading {
+    background: #58ad52;
+}
+
+.items .item .panel-body {
+    background: #e9eef3;
+    min-height: 250px;
+}
+.items .item a {
+    color: #4b596c;
+    font-size: 1.2em;
+    font-weight: bold;
+    display: block;
+    padding: 30px 0;
+}
+.items .item:nth-child(even) a {
+    color: #58ad52;
+}
+
+.items .item p {
+    padding: 0 20px;
+    color: #767582;
+}
+
+.items .item:nth-child(even) p {
+    color: #768275;
+}
+
+footer {
+    background: #2a2d33;
+    padding: 30px 0 40px;
+}
+footer .social a {
+    color: #686770;
+}
+footer .social a:hover {
+    color: #fff;
+}
