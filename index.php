@@ -49,6 +49,7 @@
         <section class="comments">
             <div class="container">
                 <div class="items row">
+                    <h1 class="text-center">Выводим комментарии</h1>
                     <?php
                     include_once("config.php");
 

@@ -1,6 +1,6 @@
 <?php
-$username = "sys"; //mysql username
-$password = "f7rjkpbr"; //mysql password
+$username = "root"; //mysql username
+$password = ""; //mysql password
 $hostname = "localhost"; //hostname
 $databasename = "sbstatic"; //databasename
 

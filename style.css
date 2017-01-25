@@ -3,6 +3,11 @@ body {
     font-family: 'Roboto', sans-serif;
 }
 
+h1 {
+  color: #37414e;
+  margin: 0 auto 40px;
+}
+
 .space40 {
     margin-bottom: 40px;
 }
